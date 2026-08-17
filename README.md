@@ -1,6 +1,6 @@
 # LingRead Dataset
 
-**LingRead** is a large-scale benchmark dataset of reading passages designed for research on personalized passage recommendation, linguistic quality assessment, and educational content generation.
+**LingRead** is a large-scale dataset of reading passages designed for research on personalized passage recommendation, linguistic quality assessment, and educational content generation.
 
 It is part of a broader project focused on fine-tuning large language models (LLMs) for personalized passage generation tailored to individual learners.
 
